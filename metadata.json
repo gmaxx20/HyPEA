@@ -1,0 +1,8 @@
+{
+  "name": "HyPEA 2026 - Portal Educativo",
+  "description": "Plataforma integral para el estudio de Historia y Política de la Educación Argentina, con acceso a contenidos, actividades, repositorio digital e inteligencia artificial aplicada.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
